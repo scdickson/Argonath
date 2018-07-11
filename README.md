@@ -10,7 +10,7 @@ Argonath is named after the [Gates of Argonath](http://lotr.wikia.com/wiki/Argon
 * Off-the-shelf Bluetooth USB Dongle
 * [Bluetooth Low Energy Beacons](https://www.amazon.com/sanwo-Replaceable-Waterproof-Dustproof-Covering/dp/B01I57KL7G/ref=sr_1_14?ie=UTF8&qid=1531290425&sr=8-14&keywords=ble+beacon)
 ![Hardware Setup](https://github.com/scdickson/Argonath/raw/master/images/hardware_setup.jpg)
-![Enclosure](https://github.com/scdickson/Argonath/raw/master/images/hardware_1.jpg =885x576)
+![Enclosure](https://github.com/scdickson/Argonath/raw/master/images/hardware_1.jpg)
 
 # Setup
 The components are placed in an enclosure and mounted to the ceiling of the garage with the distance sensor obscured by the garage door when it is open. Distance readings from the sensor to the garage door so the state of the door can be reliably determined independent of the operation of the automatic door opener. 
