@@ -1,6 +1,7 @@
 # Argonath: Automatic Garage Door Opener
 ![Gates of Argonath](https://github.com/scdickson/Argonath/raw/master/images/argonath.jpg)
-Argonath is named after the [Gates of Argonath](http://lotr.wikia.com/wiki/Argonath) from Lord of the Rings and is an automatic garage door opener that uses BLE beacons to determine the state of vehicles in the garage. When the last vehicle leaves the garage, the door will automatically close and when a vehicle arrives home, the door with automatically open. To work properly with existing garage door openers, a distance sensor is used to determine the current state of the garage door.
+
+Argonath is named after the [Gates of Argonath](http://lotr.wikia.com/wiki/Argonath =315x239) from Lord of the Rings and is an automatic garage door opener that uses BLE beacons to determine the state of vehicles in the garage. When the last vehicle leaves the garage, the door will automatically close and when a vehicle arrives home, the door with automatically open. To work properly with existing garage door openers, a distance sensor is used to determine the current state of the garage door.
 
 # Hardware
 * Raspberry Pi 3 Model B
@@ -9,7 +10,7 @@ Argonath is named after the [Gates of Argonath](http://lotr.wikia.com/wiki/Argon
 * Off-the-shelf Bluetooth USB Dongle
 * [Bluetooth Low Energy Beacons](https://www.amazon.com/sanwo-Replaceable-Waterproof-Dustproof-Covering/dp/B01I57KL7G/ref=sr_1_14?ie=UTF8&qid=1531290425&sr=8-14&keywords=ble+beacon)
 ![Hardware Setup](https://github.com/scdickson/Argonath/raw/master/images/hardware_setup.jpg)
-![Enclosure](https://github.com/scdickson/Argonath/raw/master/images/hardware_1.jpg)
+![Enclosure](https://github.com/scdickson/Argonath/raw/master/images/hardware_1.jpg =885x576)
 
 # Setup
 The components are placed in an enclosure and mounted to the ceiling of the garage with the distance sensor obscured by the garage door when it is open. Distance readings from the sensor to the garage door so the state of the door can be reliably determined independent of the operation of the automatic door opener. 
